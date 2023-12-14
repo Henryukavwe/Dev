@@ -1,0 +1,2 @@
+1. egrep 'value to get' <filename>
+e.g. egrep 'mellon' sample.txt
